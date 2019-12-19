@@ -24,7 +24,7 @@ In order to provide an insightful analyses, we visualized the data using the exa
 
 # Tab Overview and Findings
 ## Tab1
-< img src="Figure0.png" alt="Figure0"
+<img src="Image/Figure0.png" alt="Figure0"
  title="Figure0" width="600" />
 
 The first graph is aimed to show the overall distribution of Airbnb and hotels in Manhattan from 2015 to 2019, so the density of this figure is very high. 
