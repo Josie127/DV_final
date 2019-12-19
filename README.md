@@ -1,15 +1,24 @@
 # How to Run The Code
-cd into the folder
+open terminal and cd into SMM635_Group_6 folder
+type bokeh serve --show main.py
+
+# File Specifiction 
+Data cleaning code and original data are saved in folder Data
+
+CSV files and the shape file are data required to run main.py
+
+A jupyter notebook of equivalent to main.py is also saved in the folder
+
 # Exectutive Summary
 Airbnb began in 2008 and millions of hosts and travellers choose Airbnb to list their space and book unique accommodation anywhere in the world.Airbnb successfully leveraged the benefits of the sharing economy business model by joining customers and host in its online platform. New York is one of the biggest markets of Airbnb. This project analyses the evolution of Airbnb in Manhattan between 2015 and 2019 in comparison with hotels. The insights drawn from the analyses show the impact of the sharing economy business model on traditional business model with a focus on the aspect of location and offer type (Airbnb room type). The findings are also effective for lobbying for policies favouring the traditional hotel industry as crime index and legitimacy of Airbnb are considered in the analyses. 
 ## Key Insights:
-1.A great number of Airbnbs rooms are located across Manhattan. The number of Airbnbs fluctuate in the past five years. Clusters of Airbnbs could be found around areas where hotels are densely located. The majority of Airbnbs are Entire places and Private rooms. Four clusters of Entire places could be found in lower Manhattan. There are two clusters of Entire rooms in lower Manhattan and Entire rooms are densely llocated in upper Manhattan. Shared rooms are sparsely located in Manhattan. The locations of Airbnb hotel rooms are very close to the locations of hotels. 
+1. A great number of Airbnbs rooms are located across Manhattan. The number of Airbnbs fluctuate in the past five years. Clusters of Airbnbs could be found around areas where hotels are densely located. The majority of Airbnbs are Entire places and Private rooms. Four clusters of Entire places could be found in lower Manhattan. There are two clusters of Entire rooms in lower Manhattan and Entire rooms are densely llocated in upper Manhattan. Shared rooms are sparsely located in Manhattan. The locations of Airbnb hotel rooms are very close to the locations of hotels. 
 
-2.Airbnb market may have reached saturation in Manhattan. A higher Airbnb/Hotel ratio could be identified in North Manhattan, indicating higher market traction, whereas the ratio is smaller in South Manhattan. Meanwhile, despite neighbourhoods in South Manhattan has a lower Airbnb/Hotel ratio, a higher growth rate could be identified implying a growing competition. 
+2. Airbnb market may have reached saturation in Manhattan. A higher Airbnb/Hotel ratio could be identified in North Manhattan, indicating higher market traction, whereas the ratio is smaller in South Manhattan. Meanwhile, despite neighbourhoods in South Manhattan has a lower Airbnb/Hotel ratio, a higher growth rate could be identified implying a growing competition. 
 
-3.In Manhattan, a great proportion of Airbnbs are located in areas with higher crime index, which may increase public security concerns. 
+3. In Manhattan, a great proportion of Airbnbs are located in areas with higher crime index, which may increase public security concerns. 
 
-4.The lawsuit between Airbnb and New York City is not effective as the illegal listings on Airbnb did not reduce in the past 12 months. Airbnb policy did not comply with the law and Airbnb is likely to help the hosts avoid tax. 
+4. The lawsuit between Airbnb and New York City is not effective as the illegal listings on Airbnb did not reduce in the past 12 months. Airbnb policy did not comply with the law and Airbnb is likely to help the hosts avoid tax. 
 
 # Scope of Data
 We assumed the number and locations of hotels in Manhattan are static. For Airbnb, we used September data of each year (2015-2019) for all analyses to show the flow of change apart from the Airbnb legitimacy analyses. In order to provide a more in-depth insight of Airbnb legitimacy in Manhattan, we use data of the past 12 months to illustrate the change due to the increasing press coverage of the case since January this year. 
