@@ -1,3 +1,5 @@
+# How to Run The Code
+cd into the folder
 # Exectutive Summary
 Airbnb began in 2008 and millions of hosts and travellers choose Airbnb to list their space and book unique accommodation anywhere in the world.Airbnb successfully leveraged the benefits of the sharing economy business model by joining customers and host in its online platform. New York is one of the biggest markets of Airbnb. This project analyses the evolution of Airbnb in Manhattan between 2015 and 2019 in comparison with hotels. The insights drawn from the analyses show the impact of the sharing economy business model on traditional business model with a focus on the aspect of location and offer type (Airbnb room type). The findings are also effective for lobbying for policies favouring the traditional hotel industry as crime index and legitimacy of Airbnb are considered in the analyses. 
 ## Key Insights:
@@ -24,56 +26,56 @@ In order to provide an insightful analyses, we visualized the data using the exa
 
 # Tab Overview and Findings
 ## Tab1
-<img src="/Image/Figure0.png" alt="Figure13"
- title="Figure0" width="600" />
+<img src="/Image/Figure0.png" alt="Figure0"
+ title="Figure0" width="300" />
 
 The first graph is aimed to show the overall distribution of Airbnb and hotels in Manhattan from 2015 to 2019, so the density of this figure is very high. 
 
 We plotted the locations of Airbnb and hotels to show the overall evolution of Airbnb and the competition between Airbnb and hotels from 2015 to 2019.
 
-< img src="/Image/Figure1.png" alt="Figure1"
- title="Figure1" width="600" />
+<img src="/Image/Figure1.png" alt="Figure1"
+ title="Figure1" width="400" />
  
 It can be seen from the figure that Airbnbs are densely located in various places of Manhattan. In spite of a little fluctuations, little change could be identified in terms of the number of Airbnbs in Manhattan from 2015 to 2019 . Airbnbs are more clustered in lower Manhattan.
 Most hotels are more densely located around Midtown and Lower Manhattan,and the others are scattered across Manhattan. It’s also worth noting that a few Airbnb can are found in Midtown whereas hotel is densely located in this area. 
 
 In order to have a closer look of the relationship between Airbnb and hotels, we observed locations of 4 different Airbnb room types and contrasted them with hotels separately.
 
-< img src="/Image/Figure2.png" alt="Figure2"
- title="Figure2" width="600" />
+<img src="/Image/Figure2.png" alt="Figure2"
+ title="Figure2" width="400" />
  
 Entire home or apartment (Entire place) has the highest number of rooms spreading across Manhattan. More specifically, Entire rooms formed 4 distinct clusters in Midtown and lower Manhattan where majority of the hotels were located. There are also many Entire places  aggregated in Upper East and Upper West. Entire places in upper Manhattan are relatively sparse.
 
-< img src="/Image/Figure3.png" alt="Figure3"
- title="Figure3" width="600" />
+<img src="/Image/Figure3.png" alt="Figure3"
+ title="Figure3" width="400" />
  
 Private room is the second-popular room type and two distinct clusters can be observed in middle and lower Manhattan. It also could be noticed that the density of Private rooms is much higher than that of Entire places in Upper Manhattan. Besides, the proportion of private rooms around the two sides of Central Park is lower than the proportion of the entire place.
 
-< img src="/Image/Figure4.png" alt="Figure4"
- title="Figure4" width="600" />
+<img src="/Image/Figure4.png" alt="Figure4"
+ title="Figure4" width="400" />
  
 The number of shared room is much less than the two room types aforementioned and scattered sparsely throughout Manhattan.
  
-< img src="/Image/Figure5.png" alt="Figure5"
- title="Figure5" width="600" />
+<img src="/Image/Figure5.png" alt="Figure5"
+ title="Figure5" width="400" />
  
 The number of Airbnb hotel rooms are really small as it is firstly introduced to Airbnb in 2019. The locations of Airbnb hotel rooms are very close to the locations of hotels. 
 
 ## Tab2
 
-< img src="/Image/Figure6.png" alt="Figure6"
- title="Figure6" width="600" />
-< img src="/Image/Figure7.png" alt="Figure7"
- title="Figure7" width="600" /> 
+<img src="/Image/Figure6.png" alt="Figure6"
+ title="Figure6" width="300" />
+<img src="/Image/Figure7.png" alt="Figure7"
+ title="Figure7" width="300" /> 
 
 Ths dimension of this figure is quite high with the coordinates of the map, count of Airbnb in each neighbourhood and zip code of each zone.
 
 In order to illustrate the evolution of Airbnb in Manhattan over the five years in comparison with hotels, firstly we designed the top left graph to visualise the distribution of hotel by neighbourhood in Manhattan. The map of manhattan is drawn based on zips. Colormap is used to explain the count of hotels in different neighbourhood, the darker the color, the more hotels could be found in the neighbourhood. The name of the neighbourhood, the count of hotel in the neighbourhood and the zipcode of the place could be found using hover tool. 
 
-< img src="/Image/Figure8.png" alt="Figure8"
- title="Figure8" width="600" /> 
-< img src="/Image/Figure9.png" alt="Figure9"
- title="Figure9" width="600" />
+<img src="/Image/Figure8.png" alt="Figure8"
+ title="Figure8" width="300" /> 
+<img src="/Image/Figure9.png" alt="Figure9"
+ title="Figure9" width="400" />
  
 The third and fourth figures are designed to show the statistical analysis within neighbourhoods so the abstraction degree in this figure is very high.
 WIth the reference of the hotel heatmap on top left, the top right graph illustrates the growth rate of different Airbnb room types by neighbourhood. The corresponding lines of the legends can be hidden by clicking the legend, which can be very useful while analysing one single neighbourhood or make comparisons between 2 or more neighbourhoods. The colors of the lines also matches with the color of neighbourhood in top left graph. The green lines provide a benchmark for all neighbourhoods, which is the average growth rate of the whole Manhattan area. For each neighbourhood, there are four lines illustrating the growth rate of the entire place(solid lines), private rooms(dotted lines) and shared rooms (dashdot lines). 
@@ -86,10 +88,10 @@ It could be found in the graph that most room types in most neighbourhoods follo
 
 3.In Central Harlem area, although the general pattern looks similar to the general pattern, the growth rate change more drastic compared with other neighbourhoods. For instance, In 2016, shared rooms in the area are more than doubled but the number decreased ever since. 
 
-< img src="/Image/Figure10.png" alt="Figure10"
- title="Figure10" width="600" /> 
-< img src="/Image/Figure11.png" alt="Figure11"
- title="Figure11" width="600" />
+<img src="/Image/Figure10.png" alt="Figure10"
+ title="Figure10" width="300" /> 
+<img src="/Image/Figure11.png" alt="Figure11"
+ title="Figure11" width="800" />
  
  The bottom graph illustrates the ratio between Airbnb and hotel in different neighbourhoods throughout the 5 years. It could be found Inwood and Washington Heights has the highest ratio, implying a high market traction and severe competition in the neighbourhood. The ratios in Central Harlem, Upper West Side, East Harlem and Lower East Side are also high. In contrast, at the lower end, Chelsea and Clinton has the lowest Airbnb/Hotel ratio, following by Gramercy Park and Murray Hill and Lower Manhattan. It could be interpreted that the competition in the areas are less fierce. 
 
@@ -99,10 +101,10 @@ Together with the evidence from the top right graph, it could be concluded that 
 
 ## Tab3
 
-< img src="/Image/Figure12.png" alt="Figure12"
- title="Figure12" width="600" /> 
-< img src="/Image/Figure13.GIF" alt="Figure13"
- title="Figure13" width="600" />
+<img src="/Image/Figure12.png" alt="Figure12"
+ title="Figure12" width="300" /> 
+      <img src="/Image/Figure13.GIF" alt="Figure13"
+       title="Figure13" width="400" />
  
  We wanted to create a map to show the relationship between crime index and count of Airbnb in each zip code zone. A great number of information can be plotted on the map and we use one circle with different sizes to show the number of Airbnb so this figure is inclined to multidimensional, original and light.
 
@@ -112,8 +114,8 @@ According to the visualisation, a great proportion of Airbnbs are located in les
 
 ## Tab4
 
-< img src="/Image/Figure14.png" alt="Figure14"
- title="Figure14" width="600" />
+<img src="/Image/Figure14.png" alt="Figure14"
+ title="Figure14" width="300" />
 
 The sixth figure is aimed to show the distribution of  legal and illegal Airbnbs in Manhattan so the functionality and density are relatively high in this graph.
 
@@ -124,10 +126,10 @@ The battle is escalated In January 2019 as Airbnb was embroiled in a lawsuit bro
 
 According to the visualisation, illegal Airbnbs are more condensed in lower Manhattan and the clusters are identical to the clusters of entire places. Meanwhile, legal Airbnbs could be found in upper Manhattan. 
 
- < img src="/Image/Figure15.png" alt="Figure15"
- title="Figure15" width="600" />
- < img src="/Image/Figure16.png" alt="Figure16"
- title="Figure16" width="600" />
+ <img src="/Image/Figure15.png" alt="Figure15"
+ title="Figure15" width="400" />
+ <img src="/Image/Figure16.png" alt="Figure16"
+ title="Figure16" width="400" />
  
 It could be found from the graph that around half of Airbnbs in Manhattan are illegal, indicating a break of law and potential tax loss of the government. Most importantly, The number of illegal Airbnb’s rooms did not change much over this 12 months, suggesting that this lawsuit did not put a big impact on Airbnb. Thus, the graph is effective for hotel industry to argue for more favourable policy towards hotels as Airbnb policy did not comply with the law and Airbnb is likely to help the hosts avoid tax. 
 
