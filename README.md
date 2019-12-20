@@ -6,7 +6,7 @@ cd into SMM635_Group_6 folder
 type bokeh serve --show main.py
 
 # File Specifiction 
-Data cleaning code and original data are saved in folder Data
+Data cleaning code are saved in folder Data
 
 CSV files and the shape file are data required to run main.py
 
