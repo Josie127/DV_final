@@ -1,5 +1,8 @@
 # How to Run The Code
-open terminal and cd into SMM635_Group_6 folder
+open terminal 
+
+cd into SMM635_Group_6 folder
+
 type bokeh serve --show main.py
 
 # File Specifiction 
