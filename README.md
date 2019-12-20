@@ -24,7 +24,7 @@ Airbnb began in 2008 and millions of hosts and travellers choose Airbnb to list 
 4. The lawsuit between Airbnb and New York City is not effective as the illegal listings on Airbnb did not reduce in the past 12 months. Airbnb policy did not comply with the law and Airbnb is likely to help the hosts avoid tax. 
 
 # Scope of Data
-We assumed the number and locations of hotels in Manhattan are static. For Airbnb, we used September data of each year (2015-2019) for all analyses to show the flow of change apart from the Airbnb legitimacy analyses. In order to provide a more in-depth insight of Airbnb legitimacy in Manhattan, we use data of the past 12 months to illustrate the change due to the increasing press coverage of the case since January this year. 
+We assumed the number and locations of hotels in Manhattan are static. For Airbnb, we used September data of each year (2015-2019) for all analyses to show the flow of change apart from the Airbnb legitimacy analyses. In order to provide a more in-depth insight of Airbnb legitimacy in Manhattan, we used data of the past 12 months to illustrate the change due to the increasing press coverage of the case since January this year. 
 
 In order to provide an insightful analyses, we visualized the data using the exact location and neighbourhood of each Airbnb and hotel. We categorised each location into 10 distinctive Manhattan neighbourhoods according to public government information available online. We also deployed the crime index data online in order to show the relationship between airbnb location and crime index of each zip. In terms of the legitimacy of Airbnb, we classify an Airbnb is illegal if the room type is entire place and the minimum nights are less than 30 days according to the New York City Law (Weiser and Goodman, 2019). 
 
@@ -41,15 +41,15 @@ In order to provide an insightful analyses, we visualized the data using the exa
 <img src="/Image/Figure0.png" alt="Figure0"
  title="Figure0" width="300" />
 
-The first graph is aimed to show the overall distribution of Airbnb and hotels in Manhattan from 2015 to 2019, so the density of this figure is very high. 
+The first graph is aimed to show the overall distribution of Airbnb and hotels in Manhattan from 2015 to 2019, the density of this figure is very high. 
 
 We plotted the locations of Airbnb and hotels to show the overall evolution of Airbnb and the competition between Airbnb and hotels from 2015 to 2019.
 
 <img src="/Image/Figure1.png" alt="Figure1"
  title="Figure1" width="600" />
  
-It can be seen from the figure that Airbnbs are densely located in various places of Manhattan. In spite of a little fluctuations, little change could be identified in terms of the number of Airbnbs in Manhattan from 2015 to 2019 . Airbnbs are more clustered in lower Manhattan.
-Most hotels are more densely located around Midtown and Lower Manhattan,and the others are scattered across Manhattan. It’s also worth noting that a few Airbnb can are found in Midtown whereas hotel is densely located in this area. 
+It can be seen from the figure that Airbnbs are densely located in various places of Manhattan. In spite of little fluctuations, little change could be identified in terms of the number of Airbnbs in Manhattan from 2015 to 2019. Airbnbs are more clustered in lower Manhattan.
+Most hotels are densely located around Midtown and Lower Manhattan,and the others are scattered across Manhattan. It’s also worth noting that a few Airbnb can are found in Midtown whereas hotel is densely located in this area. 
 
 In order to have a closer look of the relationship between Airbnb and hotels, we observed locations of 4 different Airbnb room types and contrasted them with hotels separately.
 
@@ -106,7 +106,7 @@ It could be found in the graph that most room types in most neighbourhoods follo
 <img src="/Image/Figure11.png" alt="Figure11"
  title="Figure11" width="800" />
  
- The bottom graph illustrates the ratio between Airbnb and hotel in different neighbourhoods throughout the 5 years. It could be found Inwood and Washington Heights has the highest ratio, implying a high market traction and severe competition in the neighbourhood. The ratios in Central Harlem, Upper West Side, East Harlem and Lower East Side are also high. In contrast, at the lower end, Chelsea and Clinton has the lowest Airbnb/Hotel ratio, following by Gramercy Park and Murray Hill and Lower Manhattan. It could be interpreted that the competition in the areas are less fierce. 
+The bottom graph illustrates the ratio between Airbnb and hotel in different neighbourhoods throughout the 5 years. It could be found Inwood and Washington Heights has the highest ratio, implying a high market traction and severe competition in the neighbourhood. The ratios in Central Harlem, Upper West Side, East Harlem and Lower East Side are also high. In contrast, at the lower end, Chelsea and Clinton has the lowest Airbnb/Hotel ratio, following by Gramercy Park and Murray Hill and Lower Manhattan. It could be interpreted that the competition in the areas are less fierce. 
 
 From the aspect of YoY change, it could be found that in most neighbourhoods the Airbnb/Hotel ratio is increasing from 2015 to 2018, followed by a slight drop in 2019. In Greenwich Village and Soho and Lower East side, the ratios fluctuate through the five years. 
 
@@ -120,7 +120,7 @@ Together with the evidence from the top right graph, it could be concluded that 
 <img src="/Image/Figure13.GIF" alt="Figure13"
  title="Figure13" width="500" />
  
- We wanted to create a map to show the relationship between crime index and count of Airbnb in each zip code zone. A great number of information can be plotted on the map and we use one circle with different sizes to show the number of Airbnb so this figure is inclined to multidimensional, original and light.
+We want to create a map to show the relationship between crime index and count of Airbnb in each zip code zone. A great amount of information need to be plotted on the map to visualise the relationship. Thus this figure is inclined to multidimensional, original and light.
 
 We created a crime map to visualise the relationship between the crime index and the count of Airbnbs with different zip in Manhattan. The underlying colormap illustrated the crime index. The higher the crime index, the darker the colour. The size of the circle represents the total amount of Airbnb with different zip and neighbourhoods that the zip belongs to are distinguished by colour. The locations of the circles are calculated by the mean of all the Airbnb rooms’ coordinates in the same zip  In addition, the exact crime index of each zip and the zip of the place could be found using hover tool. 
 
@@ -131,7 +131,7 @@ According to the visualisation, a great proportion of Airbnbs are located in les
 <img src="/Image/Figure14.png" alt="Figure14"
  title="Figure14" width="300" />
 
-The sixth figure is aimed to show the distribution of  legal and illegal Airbnbs in Manhattan so the functionality and density are relatively high in this graph.
+The sixth figure is aimed to show the distribution of legal and illegal Airbnbs in Manhattan. Thus the functionality and density are relatively high in this graph.
 
 The battle between Airbnb and New York city has lasted a few years. It is illegal under state law to rent out apartments in most buildings for fewer than 30 days unless the permanent tenant is present when a guest is renting. From the aspect of tax, it is believed that some Airbnbs are geared toward getting around city regulations that are intended to keep blocks of apartments from being turned into makeshift hotels that avoid lodging taxes and oversight.
 We classified Airbnbs as illegal if the room type is entire place and the minimum nights required is less than 30 days. (Ferré-Sadurní,2019) 
@@ -145,7 +145,7 @@ According to the visualisation, illegal Airbnbs are more condensed in lower Manh
  <img src="/Image/Figure16.png" alt="Figure16"
  title="Figure16" width="500" />
  
-It could be found from the graph that around half of Airbnbs in Manhattan are illegal, indicating a break of law and potential tax loss of the government. Most importantly, The number of illegal Airbnb’s rooms did not change much over this 12 months, suggesting that this lawsuit did not put a big impact on Airbnb. Thus, the graph is effective for hotel industry to argue for more favourable policy towards hotels as Airbnb policy did not comply with the law and Airbnb is likely to help the hosts avoid tax. 
+It could be found from the graph that around half of Airbnbs in Manhattan are illegal, indicating a break of law and potential tax loss of the government. Most importantly, The number of illegal Airbnb’s rooms did not change much between October 2018 and September 2019, suggesting that this lawsuit did not put a big impact on Airbnb. Thus, the graph is effective for hotel industry to argue for more favourable policy towards hotels as Airbnb policy did not comply with the law and Airbnb is likely to help the hosts avoid tax. 
 
 # Limitation
 
