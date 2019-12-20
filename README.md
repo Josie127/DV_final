@@ -7,7 +7,7 @@ Data cleaning code and original data are saved in folder Data
 
 CSV files and the shape file are data required to run main.py
 
-A jupyter notebook of equivalent to main.py is also saved in the folder
+A jupyter notebook equivalent to main.py is also saved in the folder
 
 # Exectutive Summary
 Airbnb began in 2008 and millions of hosts and travellers choose Airbnb to list their space and book unique accommodation anywhere in the world.Airbnb successfully leveraged the benefits of the sharing economy business model by joining customers and host in its online platform. New York is one of the biggest markets of Airbnb. This project analyses the evolution of Airbnb in Manhattan between 2015 and 2019 in comparison with hotels. The insights drawn from the analyses show the impact of the sharing economy business model on traditional business model with a focus on the aspect of location and offer type (Airbnb room type). The findings are also effective for lobbying for policies favouring the traditional hotel industry as crime index and legitimacy of Airbnb are considered in the analyses. 
