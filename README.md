@@ -28,13 +28,13 @@ We assumed the number and locations of hotels in Manhattan are static. For Airbn
 
 In order to provide an insightful analyses, we visualized the data using the exact location and neighbourhood of each Airbnb and hotel. We categorised each location into 10 distinctive Manhattan neighbourhoods according to public government information available online. We also deployed the crime index data online in order to show the relationship between airbnb location and crime index of each zip. In terms of the legitimacy of Airbnb, we classify an Airbnb is illegal if the room type is entire place and the minimum nights are less than 30 days according to the New York City Law (Weiser and Goodman, 2019). 
 
-1.Airbnb data source: http://insideairbnb.com/get-the-data.html
+1. Airbnb data source: http://insideairbnb.com/get-the-data.html
 
-2.Hotel data source: https://github.com/priyasrivast/WebscrapingAirBnbAndHotels
+2. Hotel data source: https://github.com/priyasrivast/WebscrapingAirBnbAndHotels
 
-3.New York neighbourhood and zip: https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoods.htm 
+3. New York neighbourhood and zip: https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoods.htm 
 
-4.Crime index data: https://www.bestplaces.net/crime/city/new_york/new_york
+4. Crime index data: https://www.bestplaces.net/crime/city/new_york/new_york
 
 # Tab Overview and Findings
 ## Tab1
